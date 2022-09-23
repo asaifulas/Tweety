@@ -1,4 +1,4 @@
-#Tweety Project
+# Tweety Project
 
 This is a class Activity for AirAsiaAcademy. The aim is to build a tweet component.
 
